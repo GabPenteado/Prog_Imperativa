@@ -46,4 +46,4 @@ function acao(tempoInfo, tempoPadrao){
     }
 }
 
-console.log(microondas.aquecer('pipoca', 15))
+console.log(microondas.aquecer('sorvete', 15))
